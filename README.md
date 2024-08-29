@@ -4,6 +4,8 @@ A project to recap on React Router, Axios and React Query.
 
 ## API Reference
 
+BASEURL: http://157.230.58.153/
+
 #### Get all items
 
 ```http
